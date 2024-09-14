@@ -1,0 +1,35 @@
+name: cubit_demo
+description: "Bloc & Cubit Demo Project Created by Harsh H. Rajpurohit"
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+# Dependencies
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # Cupertino Icons
+  cupertino_icons: ^1.0.8
+
+  # Bloc
+  flutter_bloc: ^8.1.6
+
+  # Http
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Encourages good practices
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  uses-material-design: true
