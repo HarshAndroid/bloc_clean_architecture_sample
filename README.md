@@ -2,10 +2,12 @@
 
 A simple IP Test app that demonstrates a **Feature-First Approach** combined with **Bloc Architecture** using Cubit. This demo showcases clean architecture principles in Flutter, making it easier to scale and maintain.
 
-### Key Features:
+### ✨ Key Features:
 - Feature-first approach to structure the codebase.
 - Utilizes Bloc (Cubit) for state management.
 - Clean architecture for better separation of concerns and testability.
+  
+
 
 📺 **Watch the tutorial on YouTube:**  
 [Click here to view the video](https://youtu.be/--iHXMF0N1w)
