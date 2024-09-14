@@ -1,16 +1,20 @@
-# clean_architecture_demo
+# Bloc (Cubit) Clean Architecture Demo
 
-A new Flutter project.
+A simple IP Test app that demonstrates a **Feature-First Approach** combined with **Bloc Architecture** using Cubit. This demo showcases clean architecture principles in Flutter, making it easier to scale and maintain.
 
-## Bloc Architecture
+### Key Features:
+- Feature-first approach to structure the codebase.
+- Utilizes Bloc (Cubit) for state management.
+- Clean architecture for better separation of concerns and testability.
 
-This project is a starting point for a Flutter application.
+📺 **Watch the tutorial on YouTube:**  
+[Click here to view the video](https://youtu.be/--iHXMF0N1w)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Feedback and Suggestions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project might not follow every best practice, and I'd love to hear your thoughts on how to improve it!  
+Feel free to reach out to me with any suggestions, improvements, or feedback.
+
+📧 Contact: [rajpurohitharsh2020@gmail.com](mailto:rajpurohitharsh2020@gmail.com)
